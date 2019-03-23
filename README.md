@@ -31,26 +31,15 @@ All the run scripts are in capstone.ipynb file.
  
 
 # Data
-Both training data and test data are available at Kaggle Quora Competition Website. Unfortunately they are too large to be stored in this repository.
+Both training data and test data are available at Kaggle Quora Competition Website. Unfortunately they are too large to be stored in this repository.Reference link for the data: https://www.kaggle.com/c/quora-question-pairs/data website. 
 
 # Analysis 
-Data Exploration: 
-For this project , I have used data provided by https://www.kaggle.com/c/quora-question-pairs/data website.  
+
+ 
 Following is the information about training data: 
 Size: 404290  
 Data Fields information: 
 Id, question id1 ,question id 2 , question1 , question 2, is_duplicate 
- 
-First 5 lines of training data information: 
-  
- 
- 
- 
- 
- 
- 
- 
- 
  
  
 Information about the duplicate and non-duplicate statements: 
@@ -61,16 +50,9 @@ Following is the information about training data:
 Size: 3563475  
 Data Fields information: 
 Test_id, question1 ,question2 
-First 5 lines of training data information: 
-  
  
+
  
- 
- 
- 
- 
-Exploratory Visualization: 
-Word length for question1 and question2: 
   
  
 # Algorithms & Techniques: 
